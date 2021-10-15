@@ -26,4 +26,4 @@ the better.
 
 ### **Repository Link**
 
-- [Enhancement Three Repository](https://github.com/BrettSoden/EnhancementTwo-Algorithms-and-Data-Structure)
+- [Enhancement Three Repository](https://github.com/BrettSoden/Enhancement-Three-Databases)
