@@ -1,6 +1,6 @@
 # **Enhancement One: Software Design and Engineering**
 
-    The artifact that I am using for the software design and engineering category is my final
+   The artifact that I am using for the software design and engineering category is my final
 project from cs 320 that I completed on April 18, 2021.  It is a medical application that 
 is used to schedule appointments, collect contact information, and provide a list of tasks 
 to be completed.  The goal of this class was to complete an application that automated the 
