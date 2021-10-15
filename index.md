@@ -15,6 +15,15 @@
    capabilities.  During the course of this class, I have enhanced my artifacts through the addition 
    of testing modules for secure coding, new functions for database CRUD funcitonality, and increased
    complexity in list search function for an appointment scheduler. 
+   
+   Collaborating in a team environment has also allowed me to gain an appreciation for the ability to 
+   have a new pair of eyes review my work.  Often I can get too close to a project, and lose the ability
+   to look at my work objectively, but having another reviewer can reveal previously unseen mistakes
+   and advice for possible improvements.  Additionally the ability to communicate with stakeholders and
+   and discover what they want in a project, has been a focus of my work in this class and has reinforced 
+   my belief that the most important part of the software development lifecycle is when the requirements
+   for the project are being decided on during discussion with stakeholder, programmers, project leads,
+   and end users.
 
 
 ## **Artifacts**
