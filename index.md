@@ -37,3 +37,4 @@
 
 - [Enhancement One](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementOne.md)
 - [Enhancement Two](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementTwo.md)
+- [Enhancement Three](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementThree.md)
