@@ -1,6 +1,6 @@
 # **Enhancement Two: Algorithms and Data Structures**
 
-The artifact that I am using for the software design and engineering category is a project from CS-405 
+The artifact that I am using for the algorithms and data structure category is a project from CS-405 
 that I completed on August 8th, 2021. It is a test module that was designed to search a collection of 
 entries in a data structure for functionality and exploitable weaknesses. 
 
