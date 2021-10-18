@@ -126,7 +126,7 @@ These enhancements showcase the ability to expand upon and update SQL and python
 I feel like I completed all the course objectives that I was meant to complete for this milestone.  
 I improved the complexity of my artifact and updated its functionality to include count, delete multiple,
 insert multiple, and update multiple SQL commands.  I do not currently have any updates to my outcome 
-coverage plans. 
+coverage plans.  
 
 When I was enhancing my project, I learned to appreciate both basic and advanced SQL commands especially
 when it came to CRUD or create, read, update, and delete.  Just including those four SQL functions in my
