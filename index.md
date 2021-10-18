@@ -35,6 +35,6 @@
   
 ### **Portfolio Link**
 
-- [Enhancement One](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementOne.md)
-- [Enhancement Two](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementTwo.md)
-- [Enhancement Three](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementThree.md)
+- [Enhancement One](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementOne.html)<br>
+- [Enhancement Two](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementTwo.html)<br>
+- [Enhancement Three](https://github.com/BrettSoden/BrettSoden.github.io/blob/main/EnhancementThree.html)<br>
